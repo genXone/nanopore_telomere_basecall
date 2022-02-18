@@ -1,0 +1,2 @@
+820M	/mnt/borgvol/Bams/genXone/20211027_1845_servdna_cas9_20063_kp520_MN106_SLSK109_2/20211025_1445_X1_FAR27188_6603ca40/fastq_pass/
+perl main.pl <(punpack_pipe.sh /mnt/borgvol/Bams/genXone_samples/21-10-27_ONT/Project_translokacje/Sample_genxone_poznan_translokacje_servdna_cas9_20063_kp520_MN106_SLSK109_2/debarcoded.none/none.fastq.gz) scas9_kp520
