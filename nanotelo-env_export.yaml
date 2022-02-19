@@ -1,6 +1,5 @@
 name: nanotelo
 channels:
-  - file://home/msykulski/miniconda3/genxone_channel/
   - bioconda
   - anaconda
   - defaults
